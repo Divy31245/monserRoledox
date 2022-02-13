@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsterRoledox/static/css/main.f4550904.css",
+    "main.js": "/monsterRoledox/static/js/main.764341d2.js",
+    "static/js/787.4e61ed83.chunk.js": "/monsterRoledox/static/js/787.4e61ed83.chunk.js",
+    "index.html": "/monsterRoledox/index.html",
+    "main.f4550904.css.map": "/monsterRoledox/static/css/main.f4550904.css.map",
+    "main.764341d2.js.map": "/monsterRoledox/static/js/main.764341d2.js.map",
+    "787.4e61ed83.chunk.js.map": "/monsterRoledox/static/js/787.4e61ed83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4550904.css",
+    "static/js/main.764341d2.js"
+  ]
+}
